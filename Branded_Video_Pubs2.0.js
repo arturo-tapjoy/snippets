@@ -5,7 +5,6 @@ var pubDefaults = {
     show_reward: true
 };
 
-
 /*
 /// DEBUG
 var pubTest = {
@@ -83,14 +82,8 @@ pubDefaults = pubTest;
   };
 
 
-
-
       
 }( window.tapjoyPubCon = window.tapjoyPubCon || {}, window.pubControls || window.top.pubControls || pubDefaults ));  
 
 
-
-
-
 c(); // Call 'c' when the action is considered "completed".
-
