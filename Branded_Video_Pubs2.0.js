@@ -1,8 +1,9 @@
+// Pub Controls
+// Developer: Alan Peters 
+// Update: Arturo Luna
+
 // default publisher options for video ads (matches legacy celtra ads)
-
-
-var pubDefaultZZZ = {
-
+var pubDefault = {
     hide_video_close_button: true,
     show_reward: true
 };
