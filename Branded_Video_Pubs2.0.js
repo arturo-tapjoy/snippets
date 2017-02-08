@@ -1,6 +1,6 @@
 // default publisher options for video ads (matches legacy celtra ads)
 
-var pubDefaults = {
+var pubDefaultsZZZ = {
     hide_video_close_button: true,
     show_reward: true
 };
